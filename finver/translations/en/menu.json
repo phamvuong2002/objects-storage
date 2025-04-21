@@ -1,29 +1,34 @@
-[
-  {
-    "id": "features",
-    "title": "Features",
-    "items": [
-      { "id": "fileManager", "href": "/file-manager", "label": "File Manager" },
-      { "id": "cloudStorage", "href": "/cloud-storage", "label": "Cloud Storage" },
-      { "id": "integrations", "href": "/integrations", "label": "Integrations" }
-    ]
-  },
-  {
-    "id": "resources",
-    "title": "Resources",
-    "items": [
-      { "id": "blog", "href": "/blog", "label": "Blog" },
-      { "id": "documentation", "href": "/docs", "label": "Documentation" },
-      { "id": "community", "href": "/community", "label": "Community" }
-    ]
-  },
-  {
-    "id": "company",
-    "title": "Company",
-    "items": [
-      { "id": "aboutUs", "href": "/about", "label": "About Us" },
-      { "id": "contact", "href": "/contact", "label": "Contact" },
-      { "id": "careers", "href": "/careers", "label": "Careers" }
-    ]
-  }
-]
+{
+  "noMenuAvailable": "No menu available",
+  "loading": "Loading...",
+  "close": "Close",
+  "data": [
+    {
+      "id": "features",
+      "title": "Features",
+      "items": [
+        { "id": "fileManager", "href": "/file-manager", "label": "File Manager" },
+        { "id": "cloudStorage", "href": "/cloud-storage", "label": "Cloud Storage" },
+        { "id": "integrations", "href": "/integrations", "label": "Integrations" }
+      ]
+    },
+    {
+      "id": "resources",
+      "title": "Resources",
+      "items": [
+        { "id": "blog", "href": "/blog", "label": "Blog" },
+        { "id": "documentation", "href": "/docs", "label": "Documentation" },
+        { "id": "community", "href": "/community", "label": "Community" }
+      ]
+    },
+    {
+      "id": "company",
+      "title": "Company",
+      "items": [
+        { "id": "aboutUs", "href": "/about", "label": "About Us" },
+        { "id": "contact", "href": "/contact", "label": "Contact" },
+        { "id": "careers", "href": "/careers", "label": "Careers" }
+      ]
+    }
+  ]
+}
