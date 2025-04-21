@@ -1,0 +1,29 @@
+[
+  {
+    "id": "features",
+    "title": "Tính năng",
+    "items": [
+      { "id": "fileManager", "href": "/file-manager", "label": "Quản lý tệp" },
+      { "id": "cloudStorage", "href": "/cloud-storage", "label": "Lưu trữ đám mây" },
+      { "id": "integrations", "href": "/integrations", "label": "Tích hợp" }
+    ]
+  },
+  {
+    "id": "resources",
+    "title": "Tài nguyên",
+    "items": [
+      { "id": "blog", "href": "/blog", "label": "Blog" },
+      { "id": "documentation", "href": "/docs", "label": "Tài liệu" },
+      { "id": "community", "href": "/community", "label": "Cộng đồng" }
+    ]
+  },
+  {
+    "id": "company",
+    "title": "Công ty",
+    "items": [
+      { "id": "aboutUs", "href": "/about", "label": "Về chúng tôi" },
+      { "id": "contact", "href": "/contact", "label": "Liên hệ" },
+      { "id": "careers", "href": "/careers", "label": "Tuyển dụng" }
+    ]
+  }
+]
